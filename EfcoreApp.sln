@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerUI", "BlazorServerUI\BlazorServerUI.csproj", "{03C2A563-BE6A-4215-BCA3-14A5636A8514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfcoreLibrary", "EfcoreLibrary\EfcoreLibrary.csproj", "{C5C5424C-1805-49D9-AE14-6142A5D8BD91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C2A563-BE6A-4215-BCA3-14A5636A8514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C2A563-BE6A-4215-BCA3-14A5636A8514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C2A563-BE6A-4215-BCA3-14A5636A8514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C2A563-BE6A-4215-BCA3-14A5636A8514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5C5424C-1805-49D9-AE14-6142A5D8BD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C5424C-1805-49D9-AE14-6142A5D8BD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C5424C-1805-49D9-AE14-6142A5D8BD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C5424C-1805-49D9-AE14-6142A5D8BD91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
